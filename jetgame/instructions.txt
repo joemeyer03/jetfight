@@ -1,0 +1,5 @@
+the file only works in firefox because that is how unity works.
+arrows to move.
+space to shoot.
+c to look back.
+shift to scope.
